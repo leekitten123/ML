@@ -1,0 +1,8 @@
+Feature, Min, Max, Mean,SD
+num_hrefs,0,304,10.8837,11.3319
+num_self_hrefs,0,116,3.2936,3.8551
+num_imgs,0,128,4.5441,8.3093
+num_videos,0,91,1.2499,4.1078
+self_reference_min_shares,0,843300,3998.7554,19738.4216
+self_reference_max_shares,0,843300,10329.2127,41027.0592
+self_reference_avg_sharess,0,843300,6401.6976,24211.0269

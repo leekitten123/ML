@@ -1,0 +1,10 @@
+Feature, Min, Max, Mean,SD
+timedelta,8,731,354.5305,214.1611
+weekday_is_monday,0,1,0.168,0.3739
+weekday_is_tuesday,0,1,0.1864,0.3894
+weekday_is_wednesday,0,1,0.1875,0.3903
+weekday_is_thursday,0,1,0.1833,0.3869
+weekday_is_friday,0,1,0.1438,0.3509
+weekday_is_saturday,0,1,0.0619,0.2409
+weekday_is_sunday,0,1,0.069,0.2535
+is_weekend,0,1,0.1309,0.3373

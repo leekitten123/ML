@@ -1,0 +1,1 @@
+% ========== Clear All ==========clear ; close all; clc% ========== Read Data ==========rawData = csvread('OnlineNewsPopularity2.csv');% ========== Data Size ==========m = size(rawData, 1);n = size(rawData, 2);% ========== Divide Data ==========xData = rawData(2:m, 25);yData = rawData(2:m, n);% ========== Plot Data ==========plotData(xData, yData);

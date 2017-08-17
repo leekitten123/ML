@@ -1,0 +1,1 @@
+% ========== Clear All ==========clear ; close all; clc% ========== Read Data ==========rawData = csvread('sample.csv');% ========== Data Size ==========m = size(rawData, 1);n = size(rawData, 2);% ========== Divide Data ==========xData = rawData(2:m, 2);yData = rawData(2:m, n);% ========== Plot Data ==========plotData(xData, yData);
